@@ -12,4 +12,7 @@ public class Main {
     public void test(){
         System.out.println("ceshi");
     }
+    public void test0001(){
+        System.out.println("新增分支测试错误");
+    }
 }
