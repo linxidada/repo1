@@ -14,5 +14,8 @@ public class Main {
     }
     public void ttttt(){
         System.out.println("1111");
+		 System.out.println("手动修改");
+		
     }
+
 }
