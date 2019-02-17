@@ -12,4 +12,7 @@ public class Main {
     public void test(){
         System.out.println("ceshi");
     }
+    public void ceshi(){
+        System.out.println("主分支");
+    }
 }
